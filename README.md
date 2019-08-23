@@ -1,7 +1,4 @@
-#AxureMobileLibrary
-最辣鸡的 Axure Mobile 元件库
 
-感觉没什么好的元件库就自己做了个移动端元件库, 个人感觉比A*t 辣鸡多了.
 
 特点
 
