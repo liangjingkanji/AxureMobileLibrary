@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/liangjingkanji/AxureMobileLibrary/releases"><img src="https://img.shields.io/badge/version-1.0.0-brightgreen"/></a>
-<a href="https://jq.qq.com/?_wv=1027&k=vWsXSNBJ"><img src="https://img.shields.io/badge/QQ群-752854893-blue"/></a>
+<img src="https://raw.githubusercontent.com/liangjingkanji/liangjingkanji/master/img/group.svg"/>
 <a href="https://github.com/liangjingkanji/AxureMobileLibrary/archive/refs/tags/1.0.0.zip"><img src="https://img.shields.io/badge/download-下载-brightgreen"/></a>
 <a href="https://d0in9i.axshare.com/#g=14"><img src="https://img.shields.io/badge/preview-预览-orange.svg"/></a>
 </p>
